@@ -1,4 +1,8 @@
 # eink-family-calendar-esp32
+
+Dispotivo eletrônico E-ink baseado em ESP32 com tela Waveshare integrado ao Google Calendar
+
+
 E-ink calendar integrating google calendar og OWM onto a 7.5 inch Waveshare screen based on an ESP32 LOLIN32 board
 
 |<img src="docs/calendar.jpg" width=45%>|<img src="docs/calendar_weather.jpg" width=45%>|
@@ -37,4 +41,4 @@ Pin-setup:
 Make sure to adjust the configuration.h file with both a link to your google webapp (that fetches the calendar entries) and with your location and API key for open weather maps.
 
 For further guidance see my instructable on the project:<br>
-https://www.instructables.com/id/E-Ink-Family-Calendar-Using-ESP32/
+https://www.instructables.com/id/E-Ink-Family-Calendar-Using-ESP32/     
